@@ -36,7 +36,7 @@ public class Cons_1 {
 	public void add() {
 	int sum = i+j+z;
 		System.out.println("addition "+"   " +sum);
-		System.out.println("this is changed");
+		
 	}
 
 }
